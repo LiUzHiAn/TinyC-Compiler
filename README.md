@@ -10,3 +10,7 @@
 - python 3.6
 
 
+### 参考书籍：
+1. *Compilers: Principles, Techniques, and Tools*，Alfred V.Aho, Ravi Sethi, Jeffrey D,Ullman
+2. *编译原理（第三版）*，王生原，清华大学出版社
+
